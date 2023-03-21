@@ -12,6 +12,9 @@
         android:theme="@style/Theme.SeletorPaises"
         tools:targetApi="31">
         <activity
+            android:name=".PaisesActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity

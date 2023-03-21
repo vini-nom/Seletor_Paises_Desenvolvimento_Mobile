@@ -2,5 +2,9 @@
     <string name="app_name">SeletorPaises</string>
     <string name="editTextSenha">Digite sua Senha</string>
     <string name="editTextNome">Digite seu Nome</string>
+    <string name="txtPesquisa">Pesquisa de País</string>
+    <string name="editTextPais">Digite o Nome de um Pais</string>
+    <string name="btnPEsquisaPais">Continuar</string>
+    <string name="txtTituloPais">Informações do País</string>
     <string name="btnLogin">Entrar</string>
 </resources>
