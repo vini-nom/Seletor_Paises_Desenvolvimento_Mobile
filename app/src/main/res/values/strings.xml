@@ -6,5 +6,9 @@
     <string name="editTextPais">Digite o Nome de um Pais</string>
     <string name="btnPEsquisaPais">Continuar</string>
     <string name="txtTituloPais">Informações do País</string>
+    <string name="txtNomePais">Nome do País:</string>
+    <string name="txtLocalizacaoPais">Localização do País:</string>
+    <string name="txtAreaPais">Área do País:</string>
+    <string name="txtLPopulacaoPais">População do País:</string>
     <string name="btnLogin">Entrar</string>
 </resources>
